@@ -1,5 +1,4 @@
 /*program to print star pattern*/
-/*change*/
 #include<stdio.h>
 int main()
 {
